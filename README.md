@@ -1,16 +1,32 @@
-## Hi there 👋
+## Gavin Reddy
 
-<!--
-**GavinReddy/GavinReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Workforce analytics specialist at AIB, focused on contact centre forecasting, 
+staffing optimisation, and data-driven headcount planning.
 
-Here are some ideas to get you started:
+Recently completed a Higher Diploma in Science in Software Development 
+at ATU Galway (NFQ Level 8, first-class honours) via Springboard+.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work on
+
+- **Demand forecasting** — time series modelling (Prophet, XGBoost) for 
+  call volume prediction in a retail banking contact centre
+- **Workforce planning** — Erlang C staffing models, attrition survival 
+  analysis, headcount glidepath tools
+- **Analytics & reporting** — Power BI, DAX, SAP data integration
+- **ML in regulated environments** — credit risk modelling with 
+  explainability (SHAP) and fairness auditing (fairlearn)
+
+---
+
+### Currently building
+
+- Credit risk ML pipeline (XGBoost · SHAP · fairlearn · FastAPI)
+- PL-300 Power BI Data Analyst certification
+
+---
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gavreddy-blue?logo=linkedin)](https://linkedin.com/in/gavreddy)
