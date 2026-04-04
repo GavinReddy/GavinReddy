@@ -14,7 +14,7 @@ at ATU Galway (NFQ Level 8, first-class honours) via Springboard+.
   call volume prediction in a retail banking contact centre
 - **Workforce planning** — Erlang C staffing models, attrition survival 
   analysis, headcount glidepath tools
-- **Analytics & reporting** — Power BI, DAX, SAP data integration
+- **Analytics & reporting** — Power BI, DAX
 - **ML in regulated environments** — credit risk modelling with 
   explainability (SHAP) and fairness auditing (fairlearn)
 
